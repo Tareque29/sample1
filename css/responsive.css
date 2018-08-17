@@ -1,0 +1,257 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    
+    .container{width: 970px; }
+
+    
+    .logo{
+        text-align: center;
+    }
+ 
+ .menu-area ul li {
+	
+	
+	margin-left: 11px;
+	
+}
+    .menu-area {
+	margin-top: 27px;
+	margin-left: -20px;
+    padding-left: 5px;  
+}
+    
+ .hdr-button .btn {
+	margin-left: 92px;
+	margin-right: 70px;
+}
+    
+    .language {
+	margin-top: -31px;
+	margin-left: 64px;
+}
+    
+    .header-right {
+	margin-left: -74px;
+}
+        
+
+ .slider-text .htmlcaption h3 {
+	font-family: roboto;
+	font-weight: 700;
+	font-size: 50px;
+}
+    
+    .slider-text .htmlcaption h2 {
+	font-family: roboto;
+	font-weight: 700;
+	font-size: 46px;
+}
+    
+    .slider-text .htmlcaption button {
+	background: #df4927;
+	border: none;
+	padding: 15px 24px;
+	border-radius: 34px;
+	margin-top: 12px;
+	font-size: 13px;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+    
+    .htmlcaption {
+	position: absolute;
+	top: 35%;
+	transform: translateY(35%);
+	width: 98%;
+	color: #fff;
+}
+    
+    .service-area {
+	margin-top: -120px;
+	padding-bottom: 100px;
+	margin-left: 20px;
+}
+   .single-service a {
+	padding-left: 23px;
+} 
+    
+    .single-service a.btn {
+	padding: 9px 28px;
+	
+}
+    .why-choose-area {
+	margin-bottom: 30px;
+}
+    
+  .single-work {
+	padding: 30px 20px;
+	margin-bottom: 25px;
+}
+    
+ .we-work .col-sm-4 {
+	width: 30%;
+	margin-left: -18px;
+}
+    
+ .we-work .section-title {
+	margin-bottom: 40px;
+	margin-left: -150px;
+}
+    
+   .advertisers-img {
+	margin-left: -12px;
+}
+    
+    
+.play-button {
+	padding-left: 446px;
+}
+    
+
+}
+
+ 
+/* Extra small Device. */
+@media (max-width: 767px) {
+    .container{width: 100%; padding: 0 15px}
+    
+    .language {
+	margin-top: -28px;
+	margin-left: -16px;
+}
+    .header-right {
+	margin-top: -33px;
+}
+    
+    .mean-bar {
+	margin-top: 25px;
+}
+    
+    .slider-text .htmlcaption h3 {
+	font-family: roboto;
+	font-weight: 700;
+	font-size: 47px;
+}
+    
+    .slider-text .htmlcaption h2 {
+	font-family: roboto;
+	font-weight: 700;
+	font-size: 47px;
+}
+    
+    .htmlcaption {
+	position: absolute;
+	top: 30%;
+	transform: translateY(30%);
+	width: 98%;
+	color: #fff;
+}
+    
+    .slider-text .htmlcaption button {
+	background: #df4927;
+	border: none;
+	padding: 15px 20px;
+	border-radius: 34px;
+	margin-top: 12px;
+	font-size: 12px;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+    
+    .col-xs-12 .single-service{
+    
+	width: 100%;
+	padding: 25px 25px;
+	margin-bottom: 30px;
+}
+    
+  .service-area {
+	margin: auto;
+	margin-top: -106px;
+}
+    
+    .why-choose-area {
+	margin-top: -60px;
+}
+    
+    .section-title {
+	margin-bottom: -50px;
+}
+    
+    
+    .we-work {
+	padding: 0px 0px;
+
+}
+    
+    .single-work {
+	margin-bottom: 30px;
+}
+    
+   .advertisers-text {
+	padding-top: 0px;
+	margin-left: 16px;
+	width: 100%;
+}
+    
+    .advertisers-img {
+	margin-left: -31px;
+}
+    .play-button {
+	padding-left: 174px;
+	margin-top: 40px;
+}
+    
+    .col-xs-6{
+        width: 50%;
+    }
+    
+    .clsAutoFit{
+        max-height: 100%;
+        max-width: 100%;
+    }
+    
+    .single-service:hover{
+      transform: rotate(0deg);  
+      background-color: #f3a032;
+      color: #fff;
+}
+}
+ 
+
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+ .play-button {
+	padding-left: 240px;
+	margin-top: 40px;
+}
+    
+    .advertisers-img {
+	margin-left: 20px;
+	margin-top: 30px;
+}
+    
+ .col-xs-12 .single-service {
+	width: 100%;
+	padding: 40px 50px;
+	
+}
+    
+  
+    
+}
